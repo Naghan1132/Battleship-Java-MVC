@@ -7,7 +7,7 @@ import src.Vue.HomeGUI;
 import java.util.Scanner;
 
 
-public class Demo {
+public class Demo { // test du commit
 
     public static void main(String[] args) { // Demande à l'user si il veut jouer avec l'interface ou en console
         Scanner scanner = new Scanner(System.in);
